@@ -1,2 +1,2 @@
 # ballerina-grid
-Custom CSS div table-like grid system.
+Custom CSS responsive table-like grid system.
