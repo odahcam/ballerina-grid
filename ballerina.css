@@ -40,6 +40,8 @@
   width: device-width;
 }
 
+/* TODO: update to BS4 standard @media-queries */
+
 /* US - Ultra Small */
 @media (max-width:450px) {
     .ballerina.ballerina-us { display:table }
