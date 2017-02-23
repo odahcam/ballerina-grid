@@ -8,6 +8,10 @@
 .ballerina .ballerina-row { display:table-row }
 .ballerina .ballerina-col { display:table-cell; vertical-align:top }
 
+.ballerina.ballerina-align-top .ballerina-col { vertical-align:top }
+.ballerina.ballerina-align-middle .ballerina-col { vertical-align:middle }
+.ballerina.ballerina-align-bottom .ballerina-col { vertical-align:bottom }
+
 .ballerina.ballerina-fluid { table-layout:fixed }
 
 .ballerina.ballerina-reverse { direction:rtl }
