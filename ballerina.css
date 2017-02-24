@@ -33,10 +33,10 @@
 .ballerina.ballerina-md > .ballerina-row,
 .ballerina.ballerina-lg > .ballerina-col,
 .ballerina.ballerina-lg > .ballerina-row,
-.ballerina.ballerina-us > .ballerina-row > .ballerina-col
-.ballerina.ballerina-xs > .ballerina-row > .ballerina-col
-.ballerina.ballerina-sm > .ballerina-row > .ballerina-col
-.ballerina.ballerina-md > .ballerina-row > .ballerina-col
+.ballerina.ballerina-us > .ballerina-row > .ballerina-col,
+.ballerina.ballerina-xs > .ballerina-row > .ballerina-col,
+.ballerina.ballerina-sm > .ballerina-row > .ballerina-col,
+.ballerina.ballerina-md > .ballerina-row > .ballerina-col,
 .ballerina.ballerina-lg > .ballerina-row > .ballerina-col { display:block }
 /* FIM Responsive Utility classes reset */
 
