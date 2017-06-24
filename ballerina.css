@@ -9,11 +9,11 @@
 .ballerina .ballerina-col { display:table-cell; vertical-align:top }
 
 .ballerina.ballerina-align-top .ballerina-col,
-.ballerina.ballerina-align-top > .ballerina-col { vertical-align:top }
+.ballerina.ballerina-align-top > .ballerina-row > .ballerina-col { vertical-align:top }
 .ballerina.ballerina-align-middle .ballerina-col,
-.ballerina.ballerina-align-middle > .ballerina-col { vertical-align:middle }
+.ballerina.ballerina-align-middle > .ballerina-row > .ballerina-col { vertical-align:middle }
 .ballerina.ballerina-align-bottom .ballerina-col,
-.ballerina.ballerina-align-bottom > .ballerina-col { vertical-align:bottom }
+.ballerina.ballerina-align-bottom > .ballerina-row > .ballerina-col { vertical-align:bottom }
 
 .ballerina.ballerina-fluid { table-layout:fixed }
 
