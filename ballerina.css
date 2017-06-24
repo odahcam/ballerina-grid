@@ -4,7 +4,7 @@
  * @version 1.0.0
  */
 
-.ballerina { display:table; width:100%; max-width:100%; padding:0; margin:0 }
+.ballerina { display:table!important; width:100%; max-width:100%; padding:0; margin:0 }
 .ballerina .ballerina-row { display:table-row }
 .ballerina .ballerina-col { display:table-cell; vertical-align:top }
 
