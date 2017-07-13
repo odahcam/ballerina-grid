@@ -31,9 +31,12 @@ First of all, will you create a container: `<div class="ballerina">`.
 
 That container supports some optional classes:
 
-- `ballerina-<size>`: responsive classes in which `<sizes>` are breakpoints for turning the ballerina into a flexible table-like or a simple block element.
-- `ballerina-align-<alignment>`: this will vertically align your columns inside a `.ballerina-row` (see next step).
-- `ballerina-force`: never lets `.ballerina` be turned into a block element.
+| Optional Class | Variations | Description | 
+|---|---|---|
+| `.ballerina-<breakpoint-size>` | `us`, `xs`, `sm`, `md`, `lg` | Responsive classes in which `<sizes>` are breakpoints for turning the ballerina into a flexible table-like or a simple block element. |    
+| `.ballerina-align-<alignment>` | `tpo`, `middle`, `bottom`  | This will vertically align your columns inside a `.ballerina-row` (see next step).  |   
+|  `.ballerina-force` | `null` | Never lets `.ballerina` be turned into a block element. |   
+|  `.ballerina-fluid` | `null` | Makes `.ballerina` less adaptative but gives you more control. (less table behavior and more div behavior) |   
 
 #### The row
 
