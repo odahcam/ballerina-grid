@@ -1,8 +1,8 @@
 {
     "name": "ballerina-grid",
-    "version": "1.0.0-beta1",
+    "version": "1.0.0",
     "description": "Custom CSS responsive table-like grid system.",
     "repository": "https://github.com/odahcam/ballerina-grid.git",
     "homepage": "",
-    "author": "Luiz Barni <machado@odahcam.com>",
+    "author": "Luiz Barni <machado@odahcam.com>"
 }
